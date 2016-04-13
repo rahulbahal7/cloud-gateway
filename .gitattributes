@@ -1,0 +1,3 @@
+*.rb linguist-language=Python
+Poster/* linguist-documentation=false
+
